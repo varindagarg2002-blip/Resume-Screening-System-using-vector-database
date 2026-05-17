@@ -1,0 +1,37 @@
+Job Title: SDE-1  
+Location: ADCI – Karnataka (Bengaluru)
+
+Description  
+Cross Border Tech is seeking a Software Development Engineer to work on technology stacks that enable new cross-border experiences with support for local languages, currencies, and payments. The role focuses on designing, building, and scaling innovative systems that reduce time to market, standardize execution, and support global expansion.
+
+You will help build and evolve platforms that address complex challenges in:
+- Information extraction  
+- Large-scale computing  
+- Distributed systems  
+- Web applications  
+- Data mining  
+- Scalability  
+- Security  
+- Algorithms  
+
+You will strive for simplicity and demonstrate strong technical judgment while contributing to stable operations, improved build and testing processes, and adherence to software and security standards.
+
+What to Expect Day-to-Day  
+- Solve complex problems quickly using data-driven approaches.  
+- Design and develop state-of-the-art software systems for large-scale and ambiguous challenges.  
+- Own business outcomes through continuous auditing and automated metric monitoring.  
+- Support operational stability and continuous improvement of platform quality.  
+- Ensure compliance with organizational software and security practices.
+
+Position Nature  
+This is a contractual role suited for engineers interested in solving real scaling challenges and building mission-critical systems. Strong performance may lead to permanent SDE opportunities at Amazon.
+
+Basic Qualifications  
+- 1+ years of professional software development experience (non-internship).  
+- Experience programming in at least one modern programming language.
+
+Preferred Qualifications  
+- Bachelor’s degree in Computer Science or an equivalent technical field.
+
+Culture and Inclusion  
+Amazon promotes an inclusive culture and provides workplace accommodations during the application, interview, and onboarding process.
